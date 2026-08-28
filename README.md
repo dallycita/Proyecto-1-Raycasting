@@ -106,3 +106,7 @@ Desde la carpeta principal del proyecto ejecutar:
 
 ```bash
 cargo run
+
+
+## Video 
+https://youtu.be/hFsdqoyuTck
